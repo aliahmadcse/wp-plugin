@@ -1,4 +1,4 @@
-<h1 style="text-align:center">Assignment Plugin</h1>
+<h1 align="center">Assignment Plugin</h1>
 
 ## Description
 This plugin has two functionalities:
